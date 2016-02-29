@@ -2,6 +2,8 @@
 
 You are given a collection of ABC blocks. Just like the ones you had when you were a kid. There are twenty blocks with two letters on each block. You are guaranteed to have a complete alphabet amongst all sides of the blocks. The sample blocks are:
 
+You can only use one side of the block at a time. 
+
 ```
 [['B','O'],
 ['X','K'],
