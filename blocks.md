@@ -41,6 +41,8 @@ can_make_word("SQUAD")
 # => true
 can_make_word("CONFUSE")
 # => true
+can_make_word("BOUGHT")
+# => false
 ```
 Write a program in `ruby` that evaluates `can_make_word`
 
@@ -48,4 +50,4 @@ Write a program in `ruby` that evaluates `can_make_word`
 
 Use the `lots_of_words.txt` file to test your code.
 
-Now order the words by length.
+Now order the words that can be made by length.
